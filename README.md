@@ -17,9 +17,9 @@ npm install
 ## Frontend
 The frontend is located in pages/claim/page.tsx 
 
-- Connect Phantom Wallet
+- Connect Wallet
 - Sign a message
-- Save wallet addresses
+- Save wallet address
 
 ### For install dependencies , if fetching errors
 ```bash 
