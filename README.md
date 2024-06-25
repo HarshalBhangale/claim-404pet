@@ -5,7 +5,7 @@ This is a [Next.js](https://nextjs.org/) project bootstrapped with [`create-next
 npm install
 ``` 
 ## Features
-
+The frontend is located in pages/claim/page.tsx 
 - Connect Phantom Wallet
 - Sign a message with Phantom Wallet
 - Save Ethereum and Solana wallet addresses to PostgreSQL database
@@ -14,12 +14,6 @@ npm install
 ## API Routes
 - GET /api/get-wallet: Retrieve Ethereum wallet address based on Solana wallet address.
 - POST /api/save-wallet: Save Ethereum and Solana wallet addresses to the database.
-## Frontend
-The frontend is located in pages/claim/page.tsx 
-
-- Connect Wallet
-- Sign a message
-- Save wallet address
 
 ### For install dependencies , if fetching errors
 ```bash 
