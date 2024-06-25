@@ -1,7 +1,17 @@
 This is a [Next.js](https://nextjs.org/) project bootstrapped with [`create-next-app`](https://github.com/vercel/next.js/tree/canary/packages/create-next-app).
 
 ## Getting Started
+```bash 
+npm install
+``` 
 
+### For install dependencies , if fetching errors
+```bash 
+npm install @solana/web3.js @solana/wallet-adapter-phantom bs58 @chakra-ui/react @emotion/react @emotion/styled framer-motion pg --legacy-peer-deps
+
+npm install use-swr --legacy-peer-deps
+
+``` 
 First, run the development server:
 
 ```bash
